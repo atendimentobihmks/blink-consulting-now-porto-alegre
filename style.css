@@ -632,7 +632,7 @@ img {
 .marquee-track {
   display: flex;
   align-items: center;
-  gap: 36px;
+  gap: 44px;
   width: max-content;
   animation: marqueeScroll 24s linear infinite;
 }
@@ -640,7 +640,7 @@ img {
 
 
 .client-logo {
-  height: 52px;
+  height: 68px;
   width: auto;
   object-fit: contain;
   filter: none;
