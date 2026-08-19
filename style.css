@@ -637,23 +637,18 @@ img {
   animation: marqueeScroll 24s linear infinite;
 }
 
-.marquee-container:hover .marquee-track {
-  animation-play-state: paused;
-}
+
 
 .client-logo {
   height: 52px;
   width: auto;
   object-fit: contain;
-  filter: brightness(0) invert(1);
-  opacity: 0.85;
-  transition: all var(--transition-fast);
+  filter: none;
+  opacity: 1;
+  pointer-events: none;
 }
 
-.client-logo:hover {
-  opacity: 1;
-  transform: scale(1.1);
-}
+
 
 @keyframes marqueeScroll {
   0% { transform: translateX(0); }
