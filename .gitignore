@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.local
+scripts/*migrar*
+scripts/*credenci*
+scripts/*recriptografar*
+debug-*.txt
+*-result.txt
+test-*.js
+test-*.mjs
+*.token
