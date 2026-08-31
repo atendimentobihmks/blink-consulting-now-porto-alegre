@@ -371,6 +371,12 @@ img {
   border: 1px solid rgba(16, 185, 129, 0.2);
 }
 
+.icon-linkedin {
+  background: #EBF4FC;
+  color: #0A66C2;
+  border: 1px solid rgba(10, 102, 194, 0.2);
+}
+
 .icon-methodology {
   background: var(--blue-ice);
   color: var(--navy-700);

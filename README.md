@@ -8,6 +8,7 @@ Multilink de alta conversão para a unidade **Porto Alegre (RS)** da **Consultin
 * **Cidade / Estado:** Porto Alegre / RS
 * **Sócio-Diretor / Responsável:** Vladmir (Vladmir Rodrigues)
 * **WhatsApp Oficial:** [(51) 98143-1700](https://wa.me/5551981431700)
+* **LinkedIn:** [Vladmir Rodrigues](https://www.linkedin.com/in/vladmir-teixeira-rodrigues)
 * **Endereço da Unidade:** Rua Mostardeiro, 777, Sala 1401 — Bairro Independência
 * **Site Oficial:** [https://www.consultingnow.com.br/](https://www.consultingnow.com.br/)
 * **Landing Page:** [https://lpconsultingnow.vercel.app/](https://lpconsultingnow.vercel.app/)
